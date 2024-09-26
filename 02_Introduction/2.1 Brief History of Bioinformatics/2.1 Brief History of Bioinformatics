@@ -58,7 +58,24 @@ GENOME SEQUENCING WAVE
 
     complete human genome in 2003
 BIG DATA CHALLENGE FROM SEQUENCING
+    2001 1-2mb per day per instrument
+    2007 0.5gb per day per instrument
 
+    NGS/high-throughput, millions at the same time
+
+    Illumina, "market leader" in sequencing
+
+    1.2Gb, 7.5Gb, 15Gb 120Gb, 300Gb, 6TB(NovaSeq6000)
+
+    decrease in cost per human genome > -Moore's Law
+        happened in 2007 thru NGS
+    
+    Deep neural networks -> used to ID SNPs(single nucleotide polymorphisms)
+
+    Personalized Disease Prevention and Treatment
+        Nature Cancer Hospital
+            sequence of tumor
+            genomic tumor blueprint
 
 
 
