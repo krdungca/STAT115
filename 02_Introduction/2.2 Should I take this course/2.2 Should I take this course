@@ -1,0 +1,33 @@
+BIOINFO VS COMP BIOINFO
+    bioinfo
+        algorithm
+        creation of tools
+        engineering
+        build useful tools
+    compbio
+        study of bio via compute
+
+    Levels:
+        [0] modeling for modeling sake
+        [1] entry : use of published tools, generate hypothesis for experiments
+        [2] bioinfo: algorithms
+        [3] compbio: biodiscovery from public data integration and modeling
+        [X] integrative studies from big consortia
+
+    1 vs 2
+        1 - only help collaborators
+        2 - many/public groups can use for algorithms
+        3 - front-seat
+
+    interdisciplinary (change in emphasis over time)
+        stats:      numbers
+        compsci:    sequence
+        biology:    question
+
+    applied:
+        from freshman to postdocs
+
+    moves w/ tech development
+        removing microarray and adding scATAC (single-cell)ATAC sequence
+Is this class for me?
+
