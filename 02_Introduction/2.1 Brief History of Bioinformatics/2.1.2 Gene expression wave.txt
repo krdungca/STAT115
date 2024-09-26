@@ -1,0 +1,28 @@
+northern blot - expression of single gene
+
+microarray - hundreds to millions of tiny probes (measure many gene in a condition )
+
+gene expression 
+
+distinguish ALL vs alignment (Gene CHIP) Golub et. al Science 1999
+
+use of microarray RASL-sesq/ Luminex.,. profile of 1K genes at 5$ per sample
+
+Broad Institute --> Connectivity Map Project using Luminex...
+profile 1M profile from perturbations(deviation of a system) of multiple cell types
+
+single-cell gene expression techniques
+
+scRNA-seq.. determine cell types within a set of tissues (Cao et al, Science 2020)
+    developed... sci-RNA-seq (split-pool approach)
+                able to sequence >4M single-cells
+                then, cluster the cells accordingly
+
+
+
+
+
+
+
+
+      

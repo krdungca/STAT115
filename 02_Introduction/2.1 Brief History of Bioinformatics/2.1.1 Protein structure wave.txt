@@ -14,3 +14,9 @@ CASP9 (2012)
     HHpred
     Rosetta
     All algorithm
+
+Structure solver
+    DeepMind AlphaFold2 (CASP14 protein-folding contest)
+
+ 
+
