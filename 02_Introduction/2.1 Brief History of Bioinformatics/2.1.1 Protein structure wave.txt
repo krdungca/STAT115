@@ -1,0 +1,16 @@
+1955 Bovine insulin Sanger
+
+Needleman-Wunsch algorithm (can either align exact seq, or similar seq)
+
+Protein data bank
+
+BLAST (basic local alignment sequence)
+
+CASP (for protein structures) (critical assessment of structural prediction)
+
+BLOCKS database
+
+CASP9 (2012)
+    HHpred
+    Rosetta
+    All algorithm
